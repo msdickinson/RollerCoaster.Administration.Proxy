@@ -6,6 +6,11 @@
 
 Account Proxy
 
+Methods
+* AdminAuthorizedAsync
+* LogAsync
+* TelemetryQueryAsync
+
 Features
 * All API End Points from Account API
 * Polciy based retrys and timeouts.
